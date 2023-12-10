@@ -111,7 +111,8 @@ header {
   display: grid;
   grid-template-columns: subgrid;
   grid-template-rows: repeat(3, min-content);
-
+  align-items: center;
+  row-gap: var(--spacing-s);
   > * {
     grid-row: span 3;
   }
@@ -119,7 +120,6 @@ header {
     display: grid;
     grid-template-rows: subgrid;
     align-items: center;
-    gap: var(--spacing);
   }
 }
 
@@ -206,3 +206,36 @@ header {
     grid-column: span 3;
   }
 }
+
+/* @media only screen and (max-width: 800px) {
+  .print-container {
+    grid-template-columns:
+      minmax(5mm, 15mm) [content-start] max-content repeat(2, 1fr)
+      [content-end] minmax(5mm, 15mm);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .print-container {
+    grid-template-columns:
+      minmax(0.5rem, 2rem) [content-start] 1fr
+      [content-end] minmax(0.5rem, 2rem);
+  }
+  header {
+    gap: var(--spacing-s);
+    justify-items: center;
+  }
+  .contact-info {
+    order: 3;
+  }
+  .place-and-date-item {
+    grid-column: content;
+    & time {
+      justify-self: initial;
+    }
+
+    & > *:nth-child(2) {
+      justify-self: initial;
+    }
+  }
+} */
