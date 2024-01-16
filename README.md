@@ -100,7 +100,7 @@ Thank you for visiting my GitHub profile. Although I have professional experienc
 
 ### 1. Coffee Shop App:
 
-using C# with .NET on the backend and React on the frontend
+using C# with .NET on the backend and React with Redux on the frontend
 
 <a href="https://github.com/Catalina-Hasnas/Coffe-Shop-App-Backend" target="_blank">
   <picture>
