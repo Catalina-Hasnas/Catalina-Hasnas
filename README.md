@@ -28,7 +28,7 @@ Thank you for visiting my GitHub profile. Although I have professional experienc
 - **Highlights**:
   - Usage of semantic HTML;
   - Image Optimization;
-  - Font Optimization;
+  - Font Optimization.
 
 ### 2. Country finder App with Next.js
 
@@ -70,7 +70,7 @@ Thank you for visiting my GitHub profile. Although I have professional experienc
 
 - **URL**: [catalina-hasnas.github.io/calculator-app-main/](https://catalina-hasnas.github.io/calculator-app-main/)
 - **Highlights**:
-  - Usage of the vanilla javascript Class pattern
+  - Usage of the vanilla javascript Class pattern;
   - Toggle between three themes using a mix of CSS and Javascript;
   - Include operations with negative numbers.
 
@@ -95,6 +95,29 @@ Thank you for visiting my GitHub profile. Although I have professional experienc
   - Usage of modern CSS tools for responsiveness such as container queries and CSS clamp;
   - Usage of CSS Animations;
   - Browser and audio notifications.
+
+### 5. Timer Component Library:
+
+<a href="https://github.com/Catalina-Hasnas/react-timer-component" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Catalina-Hasnas&repo=react-timer-component&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Catalina-Hasnas&repo=react-timer-component"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Catalina-Hasnas&repo=react-timer-component" />
+  </picture>
+</a>
+
+- **URL**: [catalina-hasnas.github.io/Pomodoro-App/](https://catalina-hasnas.github.io/Pomodoro-App/)
+- **Highlights**:
+  - My debut to contributing to open source 🥳;
+  - Published to npm; 
+  - Used in my Pomodoro App from above.
+
 
 ## Projects with backend:
 
