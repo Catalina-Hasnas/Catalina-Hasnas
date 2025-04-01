@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Thank you for visiting my GitHub profile. Although I have professional experience of **3 years** working with React, I am keen on understanding the fundamentals of the web, especially **frontend development**. Check out these smaller personal projects that showcase that:
+Thank you for visiting my GitHub profile. Although I have professional experience of over **4 years** working with React, I am keen on understanding the fundamentals of the web, especially **frontend development**. Check out these smaller personal projects that showcase that:
 
 ### 1. News Homepage (HTML + CSS)
 
